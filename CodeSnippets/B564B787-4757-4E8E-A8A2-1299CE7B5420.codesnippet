@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tq_ape_ui_common</string>
+	<string>xh_ape_ui_common</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -32,7 +32,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>tq ape ui common</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tq_ape_ui_common</string>
+	<string>xh_ape_ui_common</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
